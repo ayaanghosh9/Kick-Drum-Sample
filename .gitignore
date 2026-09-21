@@ -1,0 +1,16 @@
+# Compiled output
+*.exe
+*.out
+kick
+kick.wav
+ 
+# OS
+.DS_Store
+Thumbs.db
+ 
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+ 
