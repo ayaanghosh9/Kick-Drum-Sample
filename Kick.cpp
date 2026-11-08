@@ -15,7 +15,7 @@ int main() {
     float pitchdecay = 8.0;
     float holdtime = 0.00005;
     float noiseholdtime = 0.0005;
-    for (int i=0; i<=totalSamples; i++){
+    for (int i=0; i<totalSamples; i++){
         float time = (float)i/sampleRate;
         float envelope;
         float noiseEnvelope;
